@@ -4,7 +4,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 /* added my comment */
-/* added new controller */
 
 namespace booksapi.Controllers
 {
